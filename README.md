@@ -1,5 +1,5 @@
-# AutoMobile-Price-Prediction
-![alt text](https://github.com/Chintan99/AutoMobile-Price-Prediction/blob/master/car1.jpg)
+# Car-Popularity-Preidction
+![alt text](https://raw.githubusercontent.com/Chinmaykr/Car-popularity-prediction/master/Capture.PNG)
 
 ## Problem Statement 
-We are required to model the price of cars with the available independent variables. It will be used by the management to understand how exactly the prices vary with the independent variables. They can accordingly manipulate the design of the cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to understand the pricing dynamics of a new market.
+Design a WebApp to Predict the Popularity of cars uusing Machine learning (Random Forest CLassifier) Algorithm
